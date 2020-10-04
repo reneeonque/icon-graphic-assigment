@@ -1,0 +1,103 @@
+* {
+	background-color: lightgrey;
+}
+
+body {
+	color: black;
+	font-family: Libre Baskerville, Baskerville, serif;
+	text-align: center;
+}
+
+#header {
+	color: red;
+}
+
+#name {
+	font-size: 20px;;
+}
+
+#date {
+	font-size: 18px;
+	padding-bottom: 5px;
+}
+
+#fact1 {
+	font-size: 17px;
+}
+
+#fact2 {
+	font-size: 17px;
+}
+
+#year1 {
+	padding-top: 7px;
+	font-size: 15px;
+}
+
+#grades1 {
+	font-size: 14px;
+}
+
+.inline-div1 {
+	display: table;
+	text-align: center;
+	width: 100%;
+}
+
+h6 {
+	font-size: 20px;
+	display: table-cell;
+	width: 50%;
+	padding-bottom: 20px;
+}
+
+.graphicgroup1 {
+	float: left;
+	width: 50%;
+}
+
+#fact3 {
+	padding-top: 20px;
+	font-size: 17px;
+}
+
+#year2 {
+	padding-top: 5px;
+	font-size: 22px;
+}
+
+#grades2 {
+	font-size: 21px;
+}
+
+.inline-div2 {
+	display: table;
+	text-align: center;
+	width: 100%;
+}
+
+h7 {
+	font-size: 20px;
+	display: table-cell;
+	width: 50%;
+	padding-bottom: 5px;
+}
+
+.graphicgroup2 {
+	float: left;
+	width: 50%;
+}
+
+#fact4 {
+	padding-top: 20px;
+	font-size: 17px;
+}
+
+#explanation {
+	font-size: 17px;
+	padding-top: 15px;
+}
+
+#source {
+	padding-top: 30px;
+}

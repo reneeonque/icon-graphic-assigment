@@ -10,6 +10,12 @@ body {
 
 #header {
 	color: red;
+	padding-top: 15px;
+}
+
+#subheader {
+	font-size: 18px;
+	padding-bottom: 20px;
 }
 
 #name {
@@ -18,15 +24,15 @@ body {
 
 #date {
 	font-size: 18px;
-	padding-bottom: 5px;
+	padding-bottom: 30px;
 }
 
 #fact1 {
-	font-size: 17px;
+	font-size: 18px;
 }
 
 #fact2 {
-	font-size: 17px;
+	font-size: 18px;
 }
 
 #year1 {
@@ -54,20 +60,24 @@ h6 {
 .graphicgroup1 {
 	float: left;
 	width: 50%;
+	height: 390px;
 }
 
 #fact3 {
-	padding-top: 20px;
-	font-size: 17px;
+	padding-top: 17px;
+	font-size: 18px;
+	padding-bottom: 20px;
+	margin-left: 160px;
+	margin-right: 160px;
 }
 
 #year2 {
-	padding-top: 5px;
-	font-size: 22px;
+	padding-top: 7px;
+	font-size: 15px;
 }
 
 #grades2 {
-	font-size: 21px;
+	font-size: 14px;
 }
 
 .inline-div2 {
@@ -76,26 +86,24 @@ h6 {
 	width: 100%;
 }
 
-h7 {
-	font-size: 20px;
-	display: table-cell;
-	width: 50%;
-	padding-bottom: 5px;
-}
-
 .graphicgroup2 {
 	float: left;
 	width: 50%;
+	height: 390px;
 }
 
 #fact4 {
-	padding-top: 20px;
-	font-size: 17px;
+	padding-top: 15px;
+	font-size: 18px;
+	margin-left: 160px;
+	margin-right: 160px;
 }
 
 #explanation {
-	font-size: 17px;
+	font-size: 18px;
 	padding-top: 15px;
+	margin-left: 160px;
+	margin-right: 160px;
 }
 
 #source {
